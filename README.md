@@ -1,1 +1,2 @@
-# ECE-Modules-H.W-1
+# Constant-linear-Voltage-Regulator
+Constant linear voltage regulator is used to produce constant current. The regulator produces constant current because the voltage between the regulator and the ground are firmly regulated. There are 2  capacitors that are placed between voltage in and voltage out nodes. For this specific design we used the data sheet that was provided in the Rowan engineering inventory under power management. Using the schematics provided in the data sheet we were able to redesign the constant linear regulator using the Diptrace software. We used LM780L5ACZ, 2 CAP400, GND, input and output pin(to input voltage and output voltage to the regulator)to design the constant linear voltage regulator. 
